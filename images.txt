@@ -7,3 +7,4 @@ haproxy:latest
 prom/prometheus
 prom/pushgateway:v1.5.1
 grafana/grafana-enterprise:8.5.22
+prom/alertmanager:latest
