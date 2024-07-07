@@ -6,4 +6,4 @@ haproxy:latest
 #支持指定架构
 prom/prometheus
 prom/pushgateway:v1.5.1
-
+grafana/grafana-enterprise:8.5.22
