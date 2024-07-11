@@ -8,3 +8,4 @@ prom/prometheus
 prom/pushgateway:v1.5.1
 grafana/grafana-enterprise:8.5.22
 prom/alertmanager:latest
+paddlepaddle/paddle:2.5.1
