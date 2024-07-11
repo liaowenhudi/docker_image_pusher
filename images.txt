@@ -9,5 +9,4 @@ prom/pushgateway:v1.5.1
 grafana/grafana-enterprise:8.5.22
 prom/alertmanager:latest
 paddlepaddle/paddle:2.5.1
-hub.baidubce.com/paddlepaddle/paddle:latest-gpu-cuda9.0-cudnn7-dev
 python:3.9.19-slim
