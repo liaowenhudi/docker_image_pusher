@@ -1,6 +1,6 @@
-ingress-nginx/controller
-ingress-nginx/opentelemetry
-ingress-nginx/kube-webhook-certgen
+registry.k8s.io/ingress-nginx/controller
+registry.k8s.io/ingress-nginx/opentelemetry
+registry.k8s.io/ingress-nginx/kube-webhook-certgen
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
