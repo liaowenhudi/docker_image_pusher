@@ -1,3 +1,6 @@
+ingress-nginx/controller
+ingress-nginx/opentelemetry
+ingress-nginx/kube-webhook-certgen
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -8,9 +11,3 @@ prom/prometheus
 prom/pushgateway:v1.5.1
 grafana/grafana-enterprise:8.5.22
 prom/alertmanager:latest
-paddlepaddle/paddle:2.5.1
-python:3.9.19-slim
-selenium/standalone-chrome
-ingress-nginx/controller
-ingress-nginx/opentelemetry
-ingress-nginx/kube-webhook-certgen
