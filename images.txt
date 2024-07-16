@@ -11,4 +11,4 @@ prom/pushgateway:v1.5.1
 grafana/grafana-enterprise:8.5.22
 prom/alertmanager:latest
 rancher/rke-tools:v0.1.87
-apline
+alpine:3.12
