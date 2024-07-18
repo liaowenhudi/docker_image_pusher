@@ -1,4 +1,5 @@
 grafana/grafana:8.5.6
+elasticsearch：7.9.1
 jimmidyson/configmap-reload:v0.5.0
 giantswarm/ingress-nginx-controller:v1.5.1
 nginx
