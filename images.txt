@@ -1,1 +1,1 @@
-docker.elastic.co/logstash/logstash:7.17.22
+docker.elastic.co/logstash/logstash:7.9.1
