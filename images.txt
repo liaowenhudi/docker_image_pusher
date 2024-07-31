@@ -1,3 +1,2 @@
-sgerrand/alpine-glibc:alpine3.15  
-
+ubuntu:20.04
 
