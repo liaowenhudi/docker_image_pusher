@@ -1,2 +1,2 @@
-ubuntu:20.04
-
+harbor/harbor:v2.4.1
+postgres:13
