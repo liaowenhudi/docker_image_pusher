@@ -1,3 +1,1 @@
-harbor/harbor:v2.4.1
-postgres:13
 bitnami/redis:7.4.0-debian-12-r0
