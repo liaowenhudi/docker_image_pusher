@@ -1,3 +1,3 @@
-google/cadvisor:latest
+lagoudocker/cadvisor:v0.37.0
 prom/node-exporter
 nginx:latest
