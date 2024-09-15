@@ -1,1 +1,2 @@
-cadvisor:latest
+google/cadvisor:latest
+prom/node-exporter
