@@ -1,2 +1,3 @@
 google/cadvisor:latest
 prom/node-exporter
+nginx:latest
