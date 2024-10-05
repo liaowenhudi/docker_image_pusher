@@ -1,1 +1,1 @@
-xunnx/dingtalk-alert
+timonwong/prometheus-webhook-dingtalk
