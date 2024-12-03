@@ -1,1 +1,1 @@
- keking/kkfileview:4.1.0
+registry.cn-hangzhou.aliyuncs.com/bladex-repo/alpine-java:openjdk17_cn_slim
