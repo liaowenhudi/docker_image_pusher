@@ -1,1 +1,1 @@
-sonatype/nexus3
+apacherocketmq/rocketmq-dashboard
