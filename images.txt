@@ -1,1 +1,1 @@
-nginx
+oliver006/redis_exporter
