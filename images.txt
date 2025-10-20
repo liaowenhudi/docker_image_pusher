@@ -1,1 +1,1 @@
-prom/snmp-exporter:v0.25.0
+prom/snmp-exporter
