@@ -1,2 +1,3 @@
 prom/snmp-exporter
 alpine:latest
+golang:1.21-alpine
