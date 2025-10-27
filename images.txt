@@ -1,1 +1,2 @@
 prom/snmp-exporter
+alpine:latest
