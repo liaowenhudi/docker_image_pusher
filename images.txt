@@ -1,6 +1,3 @@
-apache/rocketmq:5.1.4
-seataio/seata-server:2.0.0
-sonatype/nexus3:latest
-apacherocketmq/rocketmq-dashboard:latest
-minio/minio:RELEASE.2023-04-28T18-11-17Z
-nacos/nacos-server:2.0.3
+
+redis:latest
+mysql:8.0
