@@ -1,3 +1,4 @@
-golang:1.20-alpine
-alpine:latest
-scratch
+jumpserver/core:latest
+jumpserver/koko:latest
+jumpserver/lion:latest
+jumpserver/web:latest
