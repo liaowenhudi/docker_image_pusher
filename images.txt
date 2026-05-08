@@ -1,1 +1,2 @@
 jumpserver/lion:v2.28.8
+jumpserver/web:v2.28.8
