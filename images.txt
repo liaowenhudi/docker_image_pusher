@@ -1,1 +1,1 @@
-jumpserver/koko:v2.28.8
+jumpserver/lion:v2.28.8
