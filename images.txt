@@ -1,4 +1,3 @@
-jumpserver/core:latest
 jumpserver/koko:latest
 jumpserver/lion:latest
 jumpserver/web:latest
